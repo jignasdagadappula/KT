@@ -6,8 +6,8 @@
 trigger:
 - main
 
-pool:
-  pool: Default
+pool: Default
+
 
 steps:
 - task: NodeTool@0
